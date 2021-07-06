@@ -8,7 +8,6 @@ function main() {
 const LeituraAtual= Number(prompt('Leitura Atual:')),
       LeituraAnterior = Number(prompt('Leitura Anterior:'));
 
-
 /*Processamento*/   
 const Consumo30 = 0.59,Consumo100 = 0.75,Pis=0.15,Icms=0.25,Iluminação=0.06
 
@@ -20,8 +19,6 @@ let PIS_CONFIS01 = PIS_CONFIS(Valor01,Pis)
 let TaxaIluminação = TaxaI(Valor01,Consumo01,Iluminação)
 let BandeiraQuantidade1 = BandeiraQuantidade(LeituraAtual,LeituraAnterior,Consumo01)
 let ValorTotal = Total(Valor01,IMCS01,PIS_CONFIS01,TaxaIluminação,BandeiraQuantidade1)
-
-
 
 /*Saida*/
 console.log(`Consumo ${Consumo01.toFixed(2)} KWh`)
