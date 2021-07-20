@@ -1,0 +1,50 @@
+Pensamento Computacional
+O Pensamento Computacional tem relação com a tentativa de compreender 
+uma das formas como o ser humano resolve problemas, ou seja, com o 
+processo de resolução em si. Imagine que alguém lhe entregou uma pilha com 
+mil cartões de contatos de clientes e pediu que você os organizasse em ordem 
+alfabética. Para esta tarefa, são necessários alguns conceitos da matemática e 
+de português, como letras, alfabeto, comparação de letras e sequências, no 
+entanto, esses conceitos não nos dizem como realizar a tarefa em si. Nós 
+somos forçados a refletir sobre como realizamos a tarefa, e ao expressar nossa 
+solução usando uma linguagem (oral ou escrita), precisamos ser muito precisos 
+e claros para que a outra pessoa entenda o processo e seja capaz de repeti-lo. 
+O computador compreende linguagens bastante restritas (linguagens de 
+programação) e é muito mais limitado do que o ser humano em sua capacidade 
+cognitiva (pelo menos, por enquanto), e assim para fazê-lo executar tarefas é 
+necessário ser extremamente preciso.
+Algoritmo
+Algoritmos são um conjunto finito de passos elementares que são aplicados 
+sistematicamente até que a solução seja atingida. De forma simples, podemos 
+dizer que um algoritmo define o caminho que deve ser seguido para chegar até 
+a solução de um determinado problema.
+Várias tarefas do nosso dia a dia que são basicamente algoritmos, como seguir 
+um manual de instruções para instalar um eletrodoméstico. Fazer um bolo 
+seguindo uma receita é outro ótimo exemplo disso. Nela, temos os 
+ingredientes, ou seja, dados que serão manipulados para atingir a solução.
+Os programadores precisam escrever códigos capazes de resolver problemas 
+complexos. Porém, para fazer isso, é necessário destrinchar essas questões 
+em problemas menores para que a linguagem da máquina seja capaz de 
+entender e executar o que foi pedido. 
+Programação
+Esse termo se refere a uma atividade de planejamento, elaboração, escrita e 
+desenvolvimento de programas, seja de computadores, seja de tablets, 
+celulares ou outros equipamentos eletrônicos.
+O programador é o responsável por escrever as ações que determinado 
+programa ou plataforma deverá realizar. Por isso, ele precisa pensar em todas 
+as possibilidades que o usuário poderá executar. 
+Modularização
+Modularização pode ser entendida como um conceito computacional que é 
+empregado para dividir o seu programa em partes funcionais, partes essas que 
+conversam umas com as outras. Observando bem, toda a nossa solução de 
+software é, no final das contas, sequencial, isto é, o software é executado linha 
+por linha, uma após a outra. Porém, às vezes, uma linha manda o seu 
+programa para outra parte dele e depois volta, isso é o que aprendemos com 
+as Funções. Ainda assim, ao entrar na Função, a execução continua linha a 
+linha. Mas note que a Função é uma parte do seu programa que está em uma 
+região diferente e é acessada por meio de uma chamada a ela e, quando a sua 
+execução termina, volta para quem a chamou.
+O objetivo de uma Função é fazer algo muito específico? Pois bem, o fazer 
+algo específico é a parte modularizada, é o bloquinho que será juntado a outras 
+partes. 
+
