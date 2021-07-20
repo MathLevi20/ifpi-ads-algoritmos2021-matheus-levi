@@ -1,7 +1,7 @@
 const prompt = require('prompt-sync')()
 console.log("Bem vindo!!")
 
-function resultado(){
+function main(){
 const Numero01 = Number(prompt('Escreva um numero:'))
 const Numero02 = Number(prompt('Escreva outro numero:'))
 
@@ -18,4 +18,4 @@ else{
 
 }
 
-resultado()
+main()
